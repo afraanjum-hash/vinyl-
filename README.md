@@ -2,14 +2,14 @@
 https://github.com/afraanjum-hash/vinyl-/blob/ce005a2086b7ab79eea07512f0f46cb8858ee4e4/IMG_1916.jpeg
 Hey there! I’m Afra Anjum. Here are some subtle collection of things I am fond of. 
 <section>
-  <h2>My Favorite Sitcoms</h2>
+  <h2> Favorite Sitcoms</h2>
   <ul>
     <li>30 Rock</li>
     <li>The Simpsons</li>
     <li>Everybody Hates Chris</li>
   </ul>
 </section>
-  <h2>My Favorite Books</h2>
+  <h2> Favorite Books</h2>
   <ul>
     <li><em>Metamorphosis</em> by Franz Kafka</li>
     <li><em>The Chronicles of Narnia</em> by C.S. Lewis</li>
