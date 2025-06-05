@@ -19,7 +19,7 @@ Hey there! I’m Afra Anjum. Here are some subtle collection of things I am fond
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Contact Me</title>
+
 </head>
 <body>
   <h2>Contact Me</h2>
