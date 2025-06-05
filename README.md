@@ -1,4 +1,4 @@
-# vinyl-
+# About me-
 https://github.com/afraanjum-hash/vinyl-/blob/ce005a2086b7ab79eea07512f0f46cb8858ee4e4/IMG_1916.jpeg
 Hey there! I’m Afra Anjum. Here are some subtle collection of things I am fond of. 
 <section>
