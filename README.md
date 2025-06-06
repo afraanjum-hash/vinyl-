@@ -9,7 +9,15 @@
   left: 50%;
   transform: translateX(-50%);
 "> 
-
+<!-- Background Banner -->
+<div style="
+  background-image: url('IMG_1931.jpeg');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 300px;
+">
+</div>
 
 Hey there! I’m Afra Anjum. Here are some subtle collection of things I am fond of. 
 <section>
