@@ -9,6 +9,7 @@
   left: 50%;
   transform: translateX(-50%);
 ">
+
 Hey there! I’m Afra Anjum. Here are some subtle collection of things I am fond of. 
 <section>
   <h2> Favorite Sitcoms</h2>
