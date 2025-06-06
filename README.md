@@ -8,14 +8,8 @@
   bottom: -75px;
   left: 50%;
   transform: translateX(-50%);
-"> <div style="
-  background-image: url('IMG_1931.jpeg');
-  background-size: cover;
-  background-position: center;
-  height: 300px;
-  width: 100%;
-">
-</div>
+"> 
+
 
 Hey there! I’m Afra Anjum. Here are some subtle collection of things I am fond of. 
 <section>
