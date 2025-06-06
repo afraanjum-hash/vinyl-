@@ -24,7 +24,7 @@ Hey there! I’m Afra Anjum. Here are some subtle collection of things I am fond
     <li><em>The Chronicles of Narnia</em> by C.S. Lewis</li>
     <li><em>What If?</em> by Randall Munroe</li>
   </ul>
-  <!DOCTYPE html>
+  
 <html lang="en">
 <head>
   <meta charset="UTF-8">
