@@ -1,14 +1,4 @@
 # About me-
-<img src="IMG_1916.jpeg" alt="Profile Picture" style="
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  border: 4px solid white;
-  position: absolute;
-  bottom: -75px;
-  left: 50%;
-  transform: translateX(-50%);
-"> 
 <!-- Background Banner -->
 <div style="
   background-image: url('IMG_1931.jpeg');
