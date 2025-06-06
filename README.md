@@ -1,4 +1,14 @@
 # About me-
+<img src="IMG_1916.jpeg" alt="Profile Picture" style="
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid white;
+  position: absolute;
+  bottom: -75px;
+  left: 50%;
+  transform: translateX(-50%);
+">
 Hey there! I’m Afra Anjum. Here are some subtle collection of things I am fond of. 
 <section>
   <h2> Favorite Sitcoms</h2>
