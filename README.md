@@ -8,8 +8,7 @@
   bottom: -75px;
   left: 50%;
   transform: translateX(-50%);
-">
-<div style="
+"> <div style="
   background-image: url('IMG_1931.jpeg');
   background-size: cover;
   background-position: center;
