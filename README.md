@@ -1,4 +1,24 @@
 # About me-
+<!-- Background Banner -->
+<div style="
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  position: relative;
+">
+  <!-- Profile Picture -->
+  <img src="profile.jpg" alt="Profile Picture" style="
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid white;
+    position: absolute;
+    bottom: -75px;
+    left: 50%;
+    transform: translateX(-50%);
+  ">
+</div>
 Hey there! I’m Afra Anjum. Here are some subtle collection of things I am fond of. 
 <section>
   <h2> Favorite Sitcoms</h2>
